@@ -1,12 +1,12 @@
 
-|<h3>YULIYA MATSEVILA</h3> | <h3>About me</h3> |
+|YULIYA MATSEVILA|About me|
 |:-------------------------|:------|
 | ![image](https://sun9-36.userapi.com/impg/2CTPuEpS-m7q54n8BxwTzbZ-v2Nqzvl0oAMJng/_mRqNrdXa5U.jpg?size=200x0&quality=90&crop=0,0,944,1112&sign=e9fcd91fc4704cca4ccb2f5bd2a64356&ava=1)| Hi! Thank you for your kind attention to my CV:) Very nice to meet you! A few words about me: I have a sincere and open personality both at work and in daily life. I always prefer to deal with specific tasks, set concrete goals, and systematically strugle for them. I like working in teams. However, as experience has shown, I can successfully cope with tasks individually. I always work at full strength if I see a fair reward for this. |
-| <h3>Contact me</h3>| <h3>My Softskills</h3>| 
+| **Contact me**| **My Softskills**| 
 |yuliya.matsevilo@gmail.com https://t.me/YULIYAMV| responsible, quick at search and analysis, open to new challenges, broad negotiation experience|
-|<h3>Languages</h3>|<h3>Skills</h3>|
+|**Languages**|**Skills**|
 |Russian - native, English C1, Chinese HSK6| Photoshop, Illustator, CorelDraw beginner, Html, JS, CSS beginner, exprienced user of Word, Excel, PowerPoint, Teams, Trello etc.|
-|<h3>Education</h3>|<h3>Work experience</h3>|
+|**Education**|**Work experience**|
 |<h4>RS School</h4> <br/>*september 2020 - now* <br/>Student|<h4>Long Teng Company LLC</h4><br/> *september 2020 - now* <br/><h5>CEO</h5> <br/>Maintaining business processes of the company|
 |<h4>BELARUSIAN STATE UNIVERSITY</h4><br/> *september 2013 - june 2019* <br/>Faculty of international relationships <br/>Degree: Oriental studies <br/>Education: Specialist with knowledge of English and Chinese, translator|<h4>CHINESE-BELARUSIAN INDUSTRIAL PARK DEVELOPMENT COMPANY</h4> *january 2020 - september 2020* <h5>Head of business service desk</h5> <br/>Organization of work and control over the processes of the business service desk, distribution of tasks, monitoring of work efficiency, search of customers, conducting business meetings and negotiations, managing and executing contracts, etc.|
 |<h4>ZHEJIANG UNIVERSITY</h4> <br/>*CHINA september 2017- july 2018* <br/>Degree: Chinese language and literature <br/><h4>DALIAN UNIVERSITY OF TECHNOLOGY</h4> <br/>*june 2015 - july 2015* <br/>Short-term chinese language course|<h4>CHINESE-BELARUSIAN INDUSTRIAL PARK DEVELOPMENT COMPANY</h4> *december 2018 - december 2019* <h5>Business Service Specialist</h5> <br/>Signing of advertising space rental agreements, provision of advertising services, finding tenants, preparing layouts for printing, obtaining advertisement passports, monitoring the installation and maintenance of advertising banners and flags on the territory of the industrial park, providing business services (receiving delegations, guided tours on the industrial park, Chinese-Russian / Russian-Chinese translation, services of a guide-interpreter), negotiations with residents of the industrial park and customers, development of infrastructure services in the industrial park (search for business partners who want to place business the industrial park).|
